@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdgolamrasul&label=Profile%20views&color=0e75b6&style=flat" alt="mdgolamrasulshadin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/grshadin" target="blank"><img src="https://img.shields.io/twitter/follow/grshadin?logo=twitter&style=for-the-badge" alt="grshadin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xArko" target="blank"><img src="https://img.shields.io/twitter/follow/grshadin?logo=twitter&style=for-the-badge" alt="grshadin" /></a> </p>
 
 - 🔭 I’m currently working on **project sqa**
 
