@@ -1,6 +1,6 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/hacker.png)
-<h1 align="center">Hi 👋, I'm Golam Rasul shadin</h1>
-<h3 align="center">A passionate Security Researcher && software tester from bangladesh.</h3>
+<h1 align="center">Hi 👋, I'm Golam Rasul (0xArko)</h1>
+<h3 align="center">Passionate Ethical Hacker | Cyber Security Researcher | CTF Player</h3>
 <img align="right" alt="Coding" width="400" src="http://www.qamadness.com/wp-content/themes/qamadness/dist/images/blog-gifs/Hiring-manager-5sec.gif">
 
 
